@@ -3,6 +3,7 @@
 // @description A keyboard shortcut to toggle the region filter
 // @namespace com.teddywing
 // @match https://duckduckgo.com/*
+// @run-at document-idle
 // ==/UserScript==
 
 // Copyright (c) 2018  Teddy Wing
