@@ -22,7 +22,8 @@
 // You should have received a copy of the GNU General Public License
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-var toggle = document.querySelector('.js-region-filter-switch');
+var label = document.querySelector('[data-testid="region-filter-label"]');
+var toggle = label.parentNode.querySelector('[role="switch"]');
 
 document.addEventListener('keydown', function(e) {
 	if (e.key === 'r' && e.ctrlKey) {
