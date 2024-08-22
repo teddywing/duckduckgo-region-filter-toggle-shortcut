@@ -2,6 +2,7 @@
 // @name DuckDuckGo Region Filter Toggle Shortcut
 // @description A keyboard shortcut to toggle the region filter
 // @namespace com.teddywing
+// @version 0.0.2
 // @match https://duckduckgo.com/*
 // @run-at document-idle
 // ==/UserScript==
