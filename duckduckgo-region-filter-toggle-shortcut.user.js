@@ -2,12 +2,12 @@
 // @name DuckDuckGo Region Filter Toggle Shortcut
 // @description A keyboard shortcut to toggle the region filter
 // @namespace com.teddywing
-// @version 0.0.2
+// @version 0.0.3
 // @match https://duckduckgo.com/*
 // @run-at document-idle
 // ==/UserScript==
 
-// Copyright (c) 2018–2019  Teddy Wing
+// Copyright (c) 2018–2019, 2024  Teddy Wing
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by

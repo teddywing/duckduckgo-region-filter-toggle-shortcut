@@ -1,0 +1,17 @@
+CHANGELOG
+=========
+
+v0.0.3 (2024-08-22):
+	Fixes:
+
+	* Update toggle DOM selector.
+
+v0.0.2 (2019-05-18):
+	Fixes:
+
+	* Run at document-idle to allow time for the toggle to initialise.
+
+v0.0.1 (2018-11-21):
+	First public release.
+
+ vim:tw=80:comments=:fo+=n:formatlistpat=^\\s*\\*\\s*
